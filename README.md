@@ -7,6 +7,9 @@
 **Then data preprocessing will be done and run 5 epochs.**
 **Tested on single random image.**
 
+**The program has been tested on random image and the image is of object4 type in actual and the program is predicted correctly and output in array form.The  array has 1 at index 3**.
+
+
 # Requirement
 Some libraries are important for this project to do proper working. Below are the libraries should be installed first.
 - keras
