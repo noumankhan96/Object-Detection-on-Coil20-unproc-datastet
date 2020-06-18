@@ -16,7 +16,7 @@ Some libraries are important for this project to do proper working. Below are th
 - numpy
 
 # How to run the project
-- First copy the dataset into your users folder in C drive.
-- Copy the .py file in Jupyter notebook
+- First unzip the dataset into the C drive user folder.
+- Copy the assignment1.ipynb file in Jupyter notebook.
 - Install the libraries aur run the file.
 
